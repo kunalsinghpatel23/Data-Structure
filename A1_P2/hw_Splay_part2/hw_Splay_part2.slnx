@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hw_Splay_part2/hw_Splay_part2.vcxproj" Id="eb3063a6-9757-4794-85c1-fa00e855efcc" />
+</Solution>
